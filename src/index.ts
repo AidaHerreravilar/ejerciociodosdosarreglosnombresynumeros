@@ -13,7 +13,7 @@ nombres[index] = prompt("ingrese dos nombres");
 
 }
 for (let contador = 0; contador < numeros.length; contador++) {
-  nombres[contador] = prompt("ingrese dos nombres");
+  nombres[contador] = prompt("ingrese dos numeros");
 
 }
 
